@@ -1,0 +1,22 @@
+.container{
+    padding-top: 20px;
+}
+.collapse{
+    display: flex;
+    justify-content: flex-end;
+}
+.carousel-item{
+    padding: 10px 40px;
+    justify-content: center;
+}
+.card{
+    border: none;
+    margin: 20px;
+    text-align: center;
+    box-shadow: 5px 5px 10px;
+}
+#categories{
+    height: 250px;
+    width: 100%;
+    text-align: center;
+}
